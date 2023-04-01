@@ -1,0 +1,36 @@
+ body{
+    display: flex;
+ }
+ 
+ 
+ .one{
+display: flex;
+flex-direction: column;
+
+}
+
+
+.two{
+background-color: #1f2937;
+color: white;
+}
+
+.three{
+
+
+}
+
+.four{
+
+}
+
+.five{
+
+
+}
+
+.footer{
+background-color: #1f2937;
+color: white;
+
+}
